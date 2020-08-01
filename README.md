@@ -13,3 +13,5 @@ Pivot table for summarizing data, pivot charts,line charts for disaplying the da
 Formulas for performing arithmetic operations like sum,average,percentage,etc.
 
 Used quartiles and box plot to determine outliers in the dataset
+
+The Report.docx file has the answers to the questions that I hoped to answer.
